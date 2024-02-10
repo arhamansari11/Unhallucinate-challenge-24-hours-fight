@@ -1,8 +1,10 @@
 # Unhallucinate-challenge-24-hours-fight.
+
 ## Technologies we used: 
 
-####1- React Js
-####2- AI
+#### 1- React Js
+
+#### 2- AI
 
 ### We made a simple Dietitian web app.
 
