@@ -1,0 +1,21 @@
+/* Add this CSS to your existing stylesheet or create a new one */
+
+.custom-button {
+    background-color: #4caf50; /* Green background color */
+    color: white; /* White text color */
+    border: none; /* No border */
+    padding: 10px 20px; /* Padding for the button */
+    margin: 10px; /* Margin around the button */
+    cursor: pointer; /* Set cursor to pointer for better usability */
+    font-size: 16px; /* Font size */
+    border-radius: 5px; /* Add some border-radius for rounded corners */
+  }
+  
+  .upload-button {
+    background-color: #3498db; /* Blue background color for upload button */
+  }
+  
+  .camera-button {
+    background-color: #e74c3c; /* Red background color for camera button */
+  }
+  

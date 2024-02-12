@@ -1,0 +1,27 @@
+.firstSec h1 {
+  font-family: var(--font-abrila);
+  font-weight: 700;
+  font-style: italic;
+  font-size: 3rem;
+  line-height: 68px;
+  color: #1c0303;
+}
+
+.firstSec p {
+  font-family: var(--font-oswald);
+  font-weight: 400;
+  line-height: 36px;
+  color: #000000;
+  font-size: 1.2rem;
+}
+
+@media only screen and (max-width: 576px) {
+  .firstSec h1 {
+    line-height: 50px;
+    font-size: 2.2rem;
+  }
+  .firstSec p {
+    line-height: 36px;
+    font-size: 1.2rem;
+  }
+}

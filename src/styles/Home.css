@@ -1,0 +1,26 @@
+@import "~@fortawesome/fontawesome-free/css/all.css";
+
+.bg-class {
+  /* The image used */
+  background-image: url("../assets//images/hero-bg.jpg");
+
+  /* width: 100px; */
+  height: 100vh;
+  background-blend-mode: overlay;
+  background-color: rgba(0, 0, 0, 0.563);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.btn-style {
+  background-color: #4caf50;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 5px;
+  border: none;
+  cursor: pointer;
+}
+.btn-style:hover {
+  background-color: #4caf4fb5;
+}
