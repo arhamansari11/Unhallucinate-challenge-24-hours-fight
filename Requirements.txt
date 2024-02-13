@@ -1,0 +1,4 @@
+langchain
+pypdf
+Transformers
+sentence-transformers
